@@ -1,12 +1,13 @@
 # Shipment-ngClient
 Control and management of shipment of volumes between units of the organization. Including tracking the current situation and communicating the condition of the receipt.
 
+
 # todo
 1. login
 
 -----
 
-# ShipmentNg
+# Disclaiment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
 
